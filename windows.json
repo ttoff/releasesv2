@@ -1,0 +1,86 @@
+{
+    "game-version": "v1.1.4.2_03",
+    "launcher-version": "v1.3.1N",
+    "files":{
+        "astron/astrond.exe": {
+            "hash": "6f10c02d27a39464e5dbe48e7dc36556",
+            "path": "astron"
+        },
+        "astron/config/astrond.yml": {
+            "hash": "d25b5be68076264d5dfca7855917403f",
+            "path": "astron/config"
+        },
+        "astron/dclass/ttoff.dc": {
+            "hash": "c82f22a3c4cc13ebfea27a8db261b064",
+            "path": "astron/dclass"
+        },
+        "astron/libuv.dll": {
+            "hash": "0f634ba933406ec1c0d3168d14721218",
+            "path": "astron"
+        },
+        "offline.exe": {
+            "hash": "3f7e89965b908d2d684bf4fde3b97e7b",
+            "path": ""
+        },
+        "resources/default/ttrm_aud_01.mf": {
+            "hash": "54a267691e4f86bc16f98f0a996bdd55",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_aud_02.mf": {
+            "hash": "15b086738d2420830d533f994b5d11db",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_aud_03.mf": {
+            "hash": "f0af38cffe7525c1938c0ead79fbe0f3",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_aud_04.mf": {
+            "hash": "8c6dfcbf28390413d3a2b78d9ea24f1f",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_dat_01.mf": {
+            "hash": "b718c9c7eacbfd97cea3bddab1208d0e",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_mdl_01.mf": {
+            "hash": "35b11854dd0a6ce1659e45989a1afbe9",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_mdl_02.mf": {
+            "hash": "e353c4a0db294208f0e0742d06e96c6e",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_mdl_03.mf": {
+            "hash": "397e4f3e61427231a2ed8f19a4b95009",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_mdl_04.mf": {
+            "hash": "0a767077a1c40cbd1c1c7a9c449af763",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_mdl_05.mf": {
+            "hash": "5ca2dab0400292cb0c94e1aba0a50d57",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_sha_01.mf": {
+            "hash": "c47425e903fda8707eccc7d71b0e4548",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_tex_01.mf": {
+            "hash": "c18fd33af405a8fb22fae11e50766237",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_tex_02.mf": {
+            "hash": "efaf6f73c89b75ad333ef356db9a93b2",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_tex_03.mf": {
+            "hash": "34789a309c7076d09d126b4e0b430638",
+            "path": "resources/default"
+        },
+        "resources/default/ttrm_tex_04.mf": {
+            "hash": "10cd1ab96432f32caf087d41204160f8",
+            "path": "resources/default"
+        }
+    }
+}
