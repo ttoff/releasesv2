@@ -1,6 +1,6 @@
 {
     "game-version": "v1.1.4.2_03",
-    "launcher-version": "v1.3.1N",
+    "launcher-version": "v1.4.0",
     "files":{
         "astron/astrond.exe": {
             "hash": "6f10c02d27a39464e5dbe48e7dc36556",
